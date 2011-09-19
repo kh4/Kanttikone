@@ -1,0 +1,6 @@
+;; Hi random user; this project is for a control circuit built especially for use on a sheet metal bending machine.
+;; It has been tailored for specific use and it's very unlikely it would be usefull for anything else.
+;;
+;; That said the code is still open, and you may freely reuse it in anyway you like.
+;;
+;; TARGET: PIC16F84 using MPASM suite
